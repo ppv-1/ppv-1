@@ -2,8 +2,7 @@
 - 👀 I’m interested in game development, web development
 - 🌱 I’m currently learning react, c#, unity, springboot
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me discord @ppv2
-- 😄 Pronouns: he/him
+- 📫 How to reach me @ppv2 (dicsord)
 - ⚡ Fun fact: hello
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppv-1&theme=dracula&layout=compact)](https://github.com/ppv-1/github-readme-stats)
