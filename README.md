@@ -5,8 +5,8 @@
 - 📫 How to reach me @ppv2 (dicsord)
 - ⚡ Fun fact: hello
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppv-1&theme=dracula&layout=compact)](https://github.com/ppv-1/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ppv-1&theme=dracula" alt="ppv-1" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppv-1&theme=synthwave&layout=compact)](https://github.com/ppv-1/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ppv-1&theme=synthwave" alt="ppv-1" /></p>
 <!---
 ppv-1/ppv-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
