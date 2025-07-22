@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @ppv-1<br>👀 I’m interested in full stack development, and game development<br>🌱 I’m currently learning react, c#, unity, springboot, rust<br><br>📫 Check out my website [here](https://ppv-1.github.io/).<br>⚡ Fun fact: hello
+👋 Hi, I’m @ppv-1<br>👀 I’m interested in full stack development, and game development<br>🌱 I’m currently learning react, c#, unity, springboot, rust<br>📫 Check out my website [here](https://ppv-1.github.io/).<br>⚡ Fun fact: hello
 
 
 # 📊 GitHub Stats:
