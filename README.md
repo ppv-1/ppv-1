@@ -1,5 +1,5 @@
 ### About Me:
-Hello, I'm a dev trying to get better at react and some other stuff.<br>[My portfolio website](https://ppv-1.github.io/)
+Hello, I'm a dev trying to get better at react and some other stuff.<br><!--[My portfolio website](https://ppv-1.github.io/)-->
 <!-- 👋 Hi, I’m @ppv-1<br>👀 Full stack dev<br>🌱 Trying to get better at react, and a lot of other stuff<br>📫 Check out my website [here](https://ppv-1.github.io/).<br>⚡ Fun fact: hello -->
 
 ### Skills:
